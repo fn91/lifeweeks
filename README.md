@@ -14,10 +14,8 @@ src/
 ├── App.jsx            # Contenedor: Lógica global, estado y cálculos
 ├── App.css            # Estilos: Grid, animaciones y diseño responsivo
 └── main.jsx           # Punto de entrada de React
-2. El README.md (Tu carta de presentación)
-El archivo README.md es lo primero que ve un reclutador en GitHub. No debe decir solo "cómo instalarlo", sino qué problemas resolviste.
 
-Crea un archivo llamado README.md en la raíz de tu proyecto y pega lo siguiente (puedes ajustarlo a tu gusto):
+
 
 Markdown
 
