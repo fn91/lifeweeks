@@ -3,17 +3,6 @@
 1. Estructura Final del Proyecto
 Asegúrate de que tu carpeta src/ tenga este orden. Esto demuestra a cualquier reclutador que sabes organizar código escalable:
 
-Plaintext
-
-src/
-├── components/
-│   ├── LifeGrid.jsx   # Molécula: Maneja el renderizado del mapa
-│   └── Week.jsx       # Átomo: Lógica visual de cada celda
-├── App.jsx            # Contenedor: Lógica global, estado y cálculos
-├── App.css            # Estilos: Grid, animaciones y diseño responsivo
-└── main.jsx           # Punto de entrada de React
-
-
 
 Markdown
 
